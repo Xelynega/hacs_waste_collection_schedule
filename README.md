@@ -73,6 +73,7 @@ Waste collection schedules in the following formats and countries are supported.
 <summary>Canada</summary>
 
 - [City of Toronto](/doc/source/toronto_ca.md) / toronto.ca
+- [City of Calgary](/doc/source/api_recollect_net) / api.recollect.net
 </details>
 
 <details>
